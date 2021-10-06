@@ -87,7 +87,6 @@ public class Start {
     public static void main(String[] args){
         String img = new StringBuilder().appendCodePoint(34).toString();
         String img2 = new StringBuilder().appendCodePoint(664).toString();
-        System.out.print(img);
         zad1();
         zad2();
         zad3();
